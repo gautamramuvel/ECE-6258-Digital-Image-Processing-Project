@@ -19,4 +19,4 @@ Publication where the SFTA algorithm is described:
 
 > Costa, A. F., G. E. Humpire-Mamani, A. J. M. Traina. 2012. "An Efficient Algorithm for Fractal Analysis of Textures." In SIBGRAPI 2012 (XXV Conference on Graphics, Patterns and Images), 39-46, Ouro Preto, Brazil.
 
-I also wrote a [blog post](http://alceufc.blogspot.com/2013/09/texture-classification.html) showing how SFTA can be used to classify textures.
+[Blog post](http://alceufc.blogspot.com/2013/09/texture-classification.html) showing how SFTA can be used to classify textures.
